@@ -1,3 +1,5 @@
+Streamlit과 pinecone을 사용한 간단한 이메일 pinecone저장 및 추출 예제
+
 1. python3 -m venv venv
 2. source venv/bin/activate
 3. pip install -r requirements
